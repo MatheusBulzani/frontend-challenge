@@ -1,0 +1,169 @@
+{
+  "generatedAt": "2026-10-15T17:02:57.420Z",
+  "origin": "http://127.0.0.1:4183",
+  "runs": 3,
+  "lighthouse": "13.5.0",
+  "chrome": "chrome-launcher",
+  "pages": {
+    "mobile-home": {
+      "median": {
+        "performance": 75,
+        "accessibility": 97,
+        "bestPractices": 100,
+        "seo": 100,
+        "lcpMs": 3915.64325,
+        "cls": 0.0000677113545672338,
+        "tbtMs": 443.5
+      },
+      "runs": [
+        {
+          "performance": 68,
+          "accessibility": 97,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "4.1 s",
+          "cls": "0",
+          "tbt": "630 ms"
+        },
+        {
+          "performance": 75,
+          "accessibility": 97,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "3.9 s",
+          "cls": "0",
+          "tbt": "440 ms"
+        },
+        {
+          "performance": 79,
+          "accessibility": 97,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "3.8 s",
+          "cls": "0",
+          "tbt": "340 ms"
+        }
+      ]
+    },
+    "mobile-detail": {
+      "median": {
+        "performance": 85,
+        "accessibility": 100,
+        "bestPractices": 100,
+        "seo": 100,
+        "lcpMs": 3592.3369,
+        "cls": 0.0000677113545672338,
+        "tbtMs": 264
+      },
+      "runs": [
+        {
+          "performance": 85,
+          "accessibility": 100,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "3.5 s",
+          "cls": "0",
+          "tbt": "260 ms"
+        },
+        {
+          "performance": 82,
+          "accessibility": 100,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "3.7 s",
+          "cls": "0",
+          "tbt": "290 ms"
+        },
+        {
+          "performance": 86,
+          "accessibility": 100,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "3.6 s",
+          "cls": "0",
+          "tbt": "190 ms"
+        }
+      ]
+    },
+    "desktop-home": {
+      "median": {
+        "performance": 99,
+        "accessibility": 97,
+        "bestPractices": 100,
+        "seo": 100,
+        "lcpMs": 942.2742499999999,
+        "cls": 0.013874345619164875,
+        "tbtMs": 6
+      },
+      "runs": [
+        {
+          "performance": 99,
+          "accessibility": 97,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "0.9 s",
+          "cls": "0.014",
+          "tbt": "0 ms"
+        },
+        {
+          "performance": 99,
+          "accessibility": 97,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "0.9 s",
+          "cls": "0.014",
+          "tbt": "10 ms"
+        },
+        {
+          "performance": 98,
+          "accessibility": 97,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "1.1 s",
+          "cls": "0.029",
+          "tbt": "10 ms"
+        }
+      ]
+    },
+    "desktop-detail": {
+      "median": {
+        "performance": 99,
+        "accessibility": 100,
+        "bestPractices": 100,
+        "seo": 100,
+        "lcpMs": 946.5975000000001,
+        "cls": 0.00640351387606443,
+        "tbtMs": 19
+      },
+      "runs": [
+        {
+          "performance": 99,
+          "accessibility": 100,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "1.0 s",
+          "cls": "0.006",
+          "tbt": "20 ms"
+        },
+        {
+          "performance": 99,
+          "accessibility": 100,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "0.9 s",
+          "cls": "0.006",
+          "tbt": "30 ms"
+        },
+        {
+          "performance": 99,
+          "accessibility": 100,
+          "bestPractices": 100,
+          "seo": 100,
+          "lcp": "0.9 s",
+          "cls": "0.006",
+          "tbt": "0 ms"
+        }
+      ]
+    }
+  }
+}
